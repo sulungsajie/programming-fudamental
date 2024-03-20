@@ -45,7 +45,9 @@ public class Main {
         name = firstLetter + secondLetter;
         System.out.println("Name: " + name);
 
+
     }
+
 }
 
 
